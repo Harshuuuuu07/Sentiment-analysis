@@ -14,13 +14,14 @@ Predict whether a review is **Positive** or **Negative** — in real time or in 
 
 ## 🚀 Live Demo
 Try it out now:  
-👉 [Movie Review Sentiment Analyzer on Streamlit Cloud](https://your-app-url.streamlit.app)  
-*(Replace the link above with your deployed app’s URL)*
+👉 [Movie Review Sentiment Analyzer on Streamlit Cloud]([https://your-app-url.streamlit.app](https://sentiment-analysis-09.streamlit.app/))  
+
 
 ---
 
 ## 📸 App Preview
-> 🖼️ *(Add a screenshot of your app interface here)*
+> <img width="1899" height="912" alt="image" src="https://github.com/user-attachments/assets/68199c16-8dde-4de0-b1a5-fb6eb4facc9f" />
+
 
 ---
 
@@ -60,5 +61,5 @@ The dataset is **balanced**: 25,000 positive and 25,000 negative reviews.
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone [https://github.com/your-username/your-repo-name](https://github.com/Harshuuuuu07/Sentiment-analysis).git
+cd Sentiment-analysis
