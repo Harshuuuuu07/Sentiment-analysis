@@ -61,5 +61,5 @@ The dataset is **balanced**: 25,000 positive and 25,000 negative reviews.
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone [https://github.com/your-username/your-repo-name](https://github.com/Harshuuuuu07/Sentiment-analysis).git
+git clone (https://github.com/Harshuuuuu07/Sentiment-analysis).git
 cd Sentiment-analysis
